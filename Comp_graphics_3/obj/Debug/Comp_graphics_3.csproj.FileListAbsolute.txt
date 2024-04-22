@@ -1,0 +1,17 @@
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.csproj.AssemblyReference.cache
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.Properties.Resources.resources
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.csproj.GenerateResource.cache
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\Comp_graphics_3.exe.config
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\Comp_graphics_3.exe
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\Comp_graphics_3.pdb
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.dll
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.GLControl.dll
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.pdb
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.xml
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.GLControl.pdb
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\bin\Debug\OpenTK.GLControl.xml
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.csproj.CopyComplete
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.exe
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.pdb
+C:\PROGRAMMING\Comp_graphics_3\Comp_graphics_3\obj\Debug\Comp_graphics_3.Form1.resources
